@@ -33,3 +33,11 @@ sudo make clean install
 ```
 
 ## showcase
+
+my st has been patched to have proper ligature support, althought they don't work if they have separate colors (see https://st.suckless.org/patches/ligatures)
+
+it also has undercurl and proper glyph support
+
+![1](./screenshots/1.png)
+
+![2](./screenshots/2.png)
