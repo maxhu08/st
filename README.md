@@ -13,6 +13,8 @@ patches included so far:
 
 - `scrollback` https://st.suckless.org/patches/scrollback
   - makes it so Shift+PageUp & Shift+PageDn and mouse scrollwheel allows scrollback
+- `anysize` https://st.suckless.org/patches/anysize
+  - removes weird empty gap and makes terminal take up full space
 
 ## quick-start
 
