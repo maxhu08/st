@@ -15,6 +15,8 @@ patches included so far:
   - makes it so Shift+PageUp & Shift+PageDn and mouse scrollwheel allows scrollback
 - `anysize` https://st.suckless.org/patches/anysize
   - removes weird empty gap and makes terminal take up full space
+- `ligatures` https://st.suckless.org/patches/ligatures
+  - add ligatures for stuff like => != <= >= |>
 
 ## quick-start
 
