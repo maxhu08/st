@@ -19,6 +19,8 @@ patches included so far:
   - add ligatures for stuff like => != <= >= |>
 - `undercurl` https://st.suckless.org/patches/undercurl
   - provides support for undercurl under text
+- `glyph wide support` https://st.suckless.org/patches/glyph_wide_support
+  - fixes wide glyphs truncation (when icons get cut off)
 
 ## quick-start
 
