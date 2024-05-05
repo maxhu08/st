@@ -17,6 +17,8 @@ patches included so far:
   - removes weird empty gap and makes terminal take up full space
 - `ligatures` https://st.suckless.org/patches/ligatures
   - add ligatures for stuff like => != <= >= |>
+- `undercurl` https://st.suckless.org/patches/undercurl
+  - provides support for undercurl under text
 
 ## quick-start
 
